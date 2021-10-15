@@ -1,0 +1,1 @@
+Hello this is in second new file newfile2.txt
